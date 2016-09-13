@@ -1,3 +1,5 @@
 I think we can learn git, I think we can, I think we can!
 
 Or atleast that's what positive psychology says, lie our way to success.
+
+So does this make a very good conflict?
